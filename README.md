@@ -1,4 +1,4 @@
-# coursework
+# BÁN KẾT HACKATHON_FUTURE VISION _ ỨNG DỤNG PHÂN TÁN ĐĂNG NHẬP VÍ CRYPTO, LƯU DANH SÁCH KHÁCH HÀNG TRÊN NỀN TẢNG BLOCKCHAIN IC.
 
 Welcome to your new coursework project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
